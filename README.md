@@ -32,6 +32,8 @@ Backend of a blog application built with Java and the Spring Boot framework and 
 
 - Users who are not authenticated have access to the registration and login routes. They also have access to the posts and comments routes, where they can view blog posts and comments created by registered users.
 
+- Users will also have pagination and sorting capabilities in the posts route, where they are able to choose the number of posts per page, the page number, a category to sort by, and whether they want to sort in descending or ascending order.
+
 - The app will allow the application's administrators to assign either a role of 'USER' or 'ADMIN' to all registered users. 
 
 - In addition to having access to all the routes that non-authenticated users have access to, authenticated users with an 'USER' role will have the ability to create, update or delete comments but will not be able to create, update or delete  posts. 
