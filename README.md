@@ -120,7 +120,7 @@ For example:
 
 If your token = 'xyxyxyxyxyx', then enter 'Bearer xyxyxyxyxyx' without the quotes
 
--You should now have full CRUD capabilities if using an 'ADMIN' token.
+-You should now have full CRUD capabilities when using an 'ADMIN' token.
 
 
 
